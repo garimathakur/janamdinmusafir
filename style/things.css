@@ -1,0 +1,21 @@
+body {
+  background-image: url('../images/shari.jpg');
+  background-size: 100%;
+  background-color: yellow;
+  color:white;
+  font-family: courier;
+  font-size: 10px;
+}
+
+.text {
+  color:white;
+  font-family: courier;
+  font-size: 10px;
+  width: 600px;
+  margin-top: 60px;
+  margin-left: 60px;
+}
+
+a{text-decoration:none;}
+
+a:hover{ color: black; }
