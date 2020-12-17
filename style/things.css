@@ -1,5 +1,6 @@
 body {
   background-image: url('../images/shari.jpg');
+  background-repeat: no-repeat;
   background-size: 100%;
   background-color: yellow;
   font-family: courier;
@@ -9,11 +10,13 @@ body {
 .text {
   color:white;
   font-family: courier;
-  font-size: 10px;
+  font-size: 20px;
   width: 600px;
   margin-top: 60px;
   margin-left: 60px;
 }
 
-a{text-decoration:none;}
-a:hover{ color: black; }
+a{text-decoration: none;
+color:white;}
+
+a:hover{ color: red; }
