@@ -29,110 +29,177 @@ a:hover {
 }
 
 .poemheading {font-style: bold;
-	font-size: 10px;
-	padding: 5px;
+	font-size: 30px;
+	padding: 40px;
     background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
-    height: 50px;
+    height: 240px;
+
 
 }
 .line1 {
 	font-style: italic;
-	font-size: 15px;
+	font-size: 20px;
 	background-color:#F99F9F;
 	color:white;
-	padding: 10px;
+	padding: 5px;
 }
 
 .line2 {
 	font-style: italic;
-	font-size: 15px;
+	font-size: 20px;
 	background-color: #fdc272;
 	color:white;
-	padding: 10px;
+	padding: 5px;
 }
 
 
 .line3 {
 	font-style: italic;
-	font-size: 15px;
+	font-size: 20px;
 	background-color: #fca95f;
 	color:white;
-	padding: 10px;
+	padding: 5px;
 }
 
 
 
 .line4 {
 	font-style: italic;
-	font-size: 15px;
+	font-size: 20px;
 	background-color: #fa9957;
 	color:white;
-	padding: 10px;
+	padding: 5px;
 }
 
 
 
 .line5 {
 	font-style: italic;
-	font-size: 15px;
+	font-size: 20px;
 	background-color: #f78950;
 	color:white;
-	padding: 10px;
+	padding: 5px;
 }
 
 
 
 .line6 {
 	font-style: italic;
-	font-size: 15px;
+	font-size: 20px;
 	background-color: #f57a49;
 	color:white;
-	padding: 10px;
+	padding: 5px;
 }
 
 
 
 .line7 {
 	font-style: italic;
-	font-size: 15px;
+	font-size: 20px;
 	background-color: #f26b43;
 	color:white;
-	padding: 10px;
+	padding: 5px;
 }
 
 
 
 .line8 {
 	font-style: italic;
-	font-size: 15px;
+	font-size: 20px;
 	background-color: #eb5f46;
 	color:white;
-	padding: 10px;
+	padding: 5px;
 }
 
 .line9 {
 	font-style: italic;
-	font-size: 15px;
+	font-size: 20px;
 	background-color: #e35449;
 	color:white;
-	padding: 10px;
+	padding: 5px;
 }
 
 .line10 {
 	font-style: italic;
-	font-size: 15px;
+	font-size: 20px;
 	background-color: #dc494c;
 	color:white;
-	padding: 10px;
+	padding: 5px;
 }
 
 .line11 {
 	font-style: italic;
-	font-size: 15px;
+	font-size: 20px;
 	background-color: #e35449;
 	color:white;
-	padding: 10px;
+	padding: 5px;
+}
+
+.line12 {
+	font-style: italic;
+	font-size: 20px;
+	background-color: #f26b43;
+	color:white;
+	padding: 5px;
+}
+
+.line13 {
+	font-style: italic;
+	font-size: 40px;
+	background-color: #f57a49;
+	color:white;
+	padding: 5px;
+}
+
+.line14 {
+	font-style: italic;
+	font-size: 40px;
+	background-color: #f78950;
+	color:white;
+	padding: 5px;
 }
 
 
+.line15{
+	font-style: italic;
+	font-size: 40px;
+	background-color: #fa9957;
+	color:white;
+	padding: 5px;
+}
+
+
+.line16 {
+	font-style: italic;
+	font-size: 40px;
+	background-color: #fca95f;
+	color:white;
+	padding: 5px;
+}
+
+.line17 {
+	font-style: italic;
+	font-size: 40px;
+	background-color: #fdb668;
+	color:white;
+	padding: 5px;
+}
+
+
+.line18 {
+	font-style: italic;
+	font-size: 40px;
+	background-color: #fdc272;
+	color:white;
+	padding: 5px;
+}
+
+
+.line44 {
+	font-style: italic;
+	font-size: 40px;
+	background-color: #fdcf7c;
+	color:white;
+	padding: 5px;
+}
 
