@@ -1,0 +1,138 @@
+body{margin:0px;
+	margin: 0 auto;}
+
+
+#text {
+	text-align: center;
+	color: rgba(255, 255, 255, 0.0);
+	-webkit-transition: rgba(255, 255, 255, 0.0);
+	transition: 0.5s;
+}
+
+
+#text:hover {
+	color: rgba(255, 255, 255, 1.0);
+   -webkit-transition: rgba(255, 255, 255, 1.0);
+}
+
+a {text-align: center;
+	color: rgba(255, 255, 255, 0.0);
+	-webkit-transition: rgba(255, 255, 255, 0.0);
+	transition: 0.5s;
+	text-decoration: none;
+}
+
+
+a:hover {
+	color: yellow;
+   -webkit-transition: rgba(255, 255, 255, 1.0);
+}
+
+.poemheading {font-style: bold;
+	font-size: 20px;
+	padding: 5px;
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    height: 50px;
+
+}
+.line1 {
+	font-style: italic;
+	font-size: 15px;
+	background-color:#F99F9F;
+	color:white;
+	padding: 10px;
+}
+
+.line2 {
+	font-style: italic;
+	font-size: 15px;
+	background-color: #fdc272;
+	color:white;
+	padding: 10px;
+}
+
+
+.line3 {
+	font-style: italic;
+	font-size: 15px;
+	background-color: #fca95f;
+	color:white;
+	padding: 10px;
+}
+
+
+
+.line4 {
+	font-style: italic;
+	font-size: 15px;
+	background-color: #fa9957;
+	color:white;
+	padding: 10px;
+}
+
+
+
+.line5 {
+	font-style: italic;
+	font-size: 15px;
+	background-color: #f78950;
+	color:white;
+	padding: 10px;
+}
+
+
+
+.line6 {
+	font-style: italic;
+	font-size: 15px;
+	background-color: #f57a49;
+	color:white;
+	padding: 10px;
+}
+
+
+
+.line7 {
+	font-style: italic;
+	font-size: 15px;
+	background-color: #f26b43;
+	color:white;
+	padding: 10px;
+}
+
+
+
+.line8 {
+	font-style: italic;
+	font-size: 15px;
+	background-color: #eb5f46;
+	color:white;
+	padding: 10px;
+}
+
+.line9 {
+	font-style: italic;
+	font-size: 15px;
+	background-color: #e35449;
+	color:white;
+	padding: 10px;
+}
+
+.line10 {
+	font-style: italic;
+	font-size: 15px;
+	background-color: #dc494c;
+	color:white;
+	padding: 10px;
+}
+
+.line11 {
+	font-style: italic;
+	font-size: 15px;
+	background-color: #e35449;
+	color:white;
+	padding: 10px;
+}
+
+
+

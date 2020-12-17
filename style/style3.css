@@ -1,0 +1,22 @@
+body {
+	
+	text-align: center;
+	font-family: Yanone Kaffeesatz;
+	font-size: 20px;
+	animation: pulse 20s infinite;
+	text-transform: uppercase;
+}
+
+@keyframes pulse {
+  0% {
+    background-color: lightblue;
+  }
+
+  50%{
+    background-color: coral;
+  }
+
+  100% {
+    background-color: lightblue;
+  }
+}
