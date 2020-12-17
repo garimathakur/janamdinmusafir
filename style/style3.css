@@ -20,3 +20,346 @@ body {
     background-color: lightblue;
   }
 }
+
+.emoji {
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+    height: 900px;
+    padding: 10px;
+
+}
+
+
+.one {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(3px);
+    transition:0.5s;
+    -webkit-transition:0.5s;
+}
+
+.one:hover {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(0px);
+}
+
+.two {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(3px);
+    transition:0.5s;
+    -webkit-transition:0.5s;
+}
+
+.two:hover {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(0px);
+}
+
+.three { 
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(3px);
+    transition:0.5s;
+    -webkit-transition:0.5s;
+}
+
+.three:hover {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(0px);
+}
+
+.four {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(3px);
+    transition:0.5s;
+    -webkit-transition:0.5s;
+}
+
+.four:hover {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(0px);
+
+}
+
+.of {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(3px);
+    transition:0.5s;
+    -webkit-transition:0.5s;
+}
+
+.of:hover {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(0px);
+}
+
+
+.nobody{
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(3px);
+    transition:0.5s;
+    -webkit-transition:0.5s;
+}
+
+.nobody:hover {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(0px);
+}
+
+.the {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(3px);
+    transition:0.5s;
+    -webkit-transition:0.5s;
+}
+
+.the:hover {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(0px);
+}
+
+.life {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(3px);
+    transition:0.5s;
+    -webkit-transition:0.5s;
+}
+
+.life:hover {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(0px);
+}
+
+.willbe {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(3px);
+    transition:0.5s;
+    -webkit-transition:0.5s;
+
+}
+
+.willbe:hover {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(0px);
+}
+
+.diversified {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(3px);
+    transition:0.5s;
+    -webkit-transition:0.5s;
+
+}
+
+.diversified:hover {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(0px);
+}
+
+.less {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(3px);
+    transition:0.5s;
+    -webkit-transition:0.5s;
+}
+
+.less:hover {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(0px);
+}
+
+.degree {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(3px);
+    transition:0.5s;
+    -webkit-transition:0.5s;
+}
+
+.degree:hover {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(0px);
+}
+
+.for {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(3px);
+    transition:0.5s;
+    -webkit-transition:0.5s;
+}
+
+.for:hover {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(0px);
+}
+
+.and {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(3px);
+    transition:0.5s;
+    -webkit-transition:0.5s;
+}
+
+.and:hover {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(0px);
+}
+
+.bright {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(3px);
+    transition:0.5s;
+    -webkit-transition:0.5s;
+}
+
+.bright:hover {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(0px);
+}
+
+.oflife {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(3px);
+    transition:0.5s;
+    -webkit-transition:0.5s;
+}
+
+.oflife:hover {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(0px);
+}
+
+.that {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+  filter: blur(3px);
+  transition:0.5s;
+    -webkit-transition:0.5s;
+}
+
+.that:hover {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(0px);
+}
+
+.will {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(3px);
+    transition:0.5s;
+    -webkit-transition:0.5s;
+}
+
+.will:hover {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(0px);
+}
+
+.interest {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(3px);
+    transition:0.5s;
+    -webkit-transition:0.5s;
+}
+
+.interest:hover {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(0px);
+}
+
+.greed {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(3px);
+    transition:0.5s;
+    -webkit-transition:0.5s;
+}
+
+.greed:hover {
+  position: relative;
+    display: inline-block;
+    margin: 20px;
+    filter: blur(0px);
+}
+
+
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{color: #00ffff  ;}
